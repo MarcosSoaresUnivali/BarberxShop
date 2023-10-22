@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BarberxShop</string>
+    <string name="app_giro_name">/=/=/BarberxShop/=/=/</string>
+
+    <string name="MainDescr">Main</string>
+    <string name="LocationDescr">Location</string>
+    <string name="OrderSchedDescr">Order Scheduled</string>
+    <string name="ProfessionalDescr">Professional</string>
+    <string name="ServiceDescr">Service</string>
+    <string name="SettingsDescr">Settings</string>
+    <string name="TimeDescr">Time</string>
+
+    <string name="MainUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README.md</string>
+    <string name="LocationUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README_location.md</string>
+    <string name="OrderSchedUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README_ordersched.md</string>
+    <string name="ProfessionalUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README.md</string>
+    <string name="ServiceUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README.md</string>
+    <string name="SettingsUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README_location.md</string>
+    <string name="TimeUrl">https://github.com/MarcosSoaresUnivali/BarberxShop/blob/main/README.md</string>
+
+</resources>
